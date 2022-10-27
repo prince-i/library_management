@@ -1,0 +1,7 @@
+----ADMIN----
+username:admin
+password:admin
+
+----STUDENT----
+username:student
+password:student
